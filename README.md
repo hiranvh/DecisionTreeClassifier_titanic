@@ -1,2 +1,2 @@
-# DecisionTreeClassifier_titanic
-Decision Tree Classifier(on Titanic Datasets
+# Decision Tree Classifier_titanic
+Decision Tree Classifier on Titanic Datasets
